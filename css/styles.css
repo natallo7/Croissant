@@ -1,0 +1,17 @@
+body {
+  background: bisque;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.navigation-links {
+  text-align: center;
+}
+
+.navigation-links a {
+  margin: 0 10px;
+  color: brown;
+}
